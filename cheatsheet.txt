@@ -1,0 +1,2 @@
+Импорт функции из файла
+#from vsearch import search4vowels

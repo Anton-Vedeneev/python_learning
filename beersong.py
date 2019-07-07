@@ -18,4 +18,4 @@ for beer_num in range(99, 0, -1): # Создаем цикл с шагом мин
             else:
                 word = "бутылок"
             print(new_num, word, "пива на стене.")
-    print()
+    print() # пустая строка в конце.

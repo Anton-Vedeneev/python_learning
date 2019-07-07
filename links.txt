@@ -1,0 +1,15 @@
+https://docs.python.org/3/reference/lexical_analysis.html#operators
+https://docs.python.org/3/library/stdtypes.html
+https://ru.wikipedia.org/wiki/Кортеж_(информатика)
+http://pep8.ru/doc/pep8/
+https://www.python.org/dev/peps/pep-3107/.
+PyPI: https://pypi,python.org/pypi
+https://www.pypi.io
+http://itscreen.tk/blog/30-registraciya-paketa-na-pypi/ dont' work
+https://maxpoletaev.ru/blog/publishing-in-pypi/
+https://doc.pytest.org/en/latest/
+https://pep8.org/
+https://pep8.ru/doc/pep8/
+http://jinja.pocoo.org/docs/dev
+http://python.itcarlow.ie/ed2/
+http://flask.pocoo.org
